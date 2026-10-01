@@ -1,0 +1,13 @@
+(.vevn) PS C:\Users\197062-9\Documents\ejemplo_copilote> python .\main.py
+Ingrese las horas trabajadas: 40
+Ingrese el pago por hora: 10
+El salario semanal es: 400.0
+(.vevn) PS C:\Users\197062-9\Documents\ejemplo_copilote> python .\main.py
+Ingrese las horas trabajadas: 45
+Ingrese el pago por hora: 10
+El salario semanal es: 550.0
+(.vevn) PS C:\Users\197062-9\Documents\ejemplo_copilote> python .\main.py
+Ingrese las horas trabajadas: 50
+Ingrese el pago por hora: 12
+El salario semanal es: 840.0
+(.vevn) PS C:\Users\197062-9\Documents\ejemplo_copilote> 
