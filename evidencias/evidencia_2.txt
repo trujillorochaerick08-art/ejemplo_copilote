@@ -1,0 +1,13 @@
+menu de opciones:
+1. Calcular salario semanal
+2. Calcular x
+3. Calcular n
+4. Salir
+Seleccione una opción: 3
+Ingrese el valor de n: 5
+El valor de n es: 118.01916795759008
+menu de opciones:
+1. Calcular salario semanal
+2. Calcular x
+3. Calcular n
+4. Salir

@@ -1,0 +1,13 @@
+menu de opciones:
+1. Calcular salario semanal
+2. Calcular x
+3. Salir
+Seleccione una opción: 2
+Ingrese el valor de a: 2
+Ingrese el valor de b: 20
+Ingrese el valor de c: 5
+El valor de x es: 0.8
+menu de opciones:
+1. Calcular salario semanal
+2. Calcular x
+3. Salir
